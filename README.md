@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Harlodmeme/Harlod/main/banner-clean.png" alt="HARLOD Banner" />
+</p>
 
 # HARLOD (HARLOD)
 
