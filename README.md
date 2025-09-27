@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Harlodmeme/Harlod/main/banner-clean.png" alt="HARLOD Banner" />
+  <img src="https://raw.githubusercontent.com/Harlodmeme/Harlod/main/harlod_banner_clean.png" alt="HARLOD Banner" />
 </p>
 
 # HARLOD (HARLOD)
